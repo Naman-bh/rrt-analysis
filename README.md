@@ -131,7 +131,6 @@ All 30 commands are documented in the blog.
 
 - **Dr. SubbuLakshmi T** — course instructor, BCSE308L
 - **VIT Chennai** and **SCOPE**
-- My parents and friends for the support
 - The Wireshark, Scapy, and iperf3 open-source communities
 
 ---
