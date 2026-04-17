@@ -1,0 +1,15 @@
+# Packet captures
+*.pcapng
+*.pcap
+
+# Video
+*.mp4
+
+# Virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Claude
+.claude/
